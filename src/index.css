@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.active {
+  font-weight: bolder;
+  text-decoration: none;
+  color: springgreen;
+}
